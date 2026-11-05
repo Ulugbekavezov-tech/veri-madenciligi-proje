@@ -1,2 +1,24 @@
 # veri-madenciligi-proje
 Veri Madenciliği ve İş Zekası Projesi - Sosyal Medya ve Finansal Haberlerin Borsa Üzerindeki Etkisi
+# Veri Madenciliği ve İş Zekası Projesi
+
+**Proje Konusu:** Finansal Haberler ve Sosyal Medya Verilerinin Borsa Üzerindeki Etkisinin LLM ve İstatistiksel Modellerle Analizi.
+
+**Grup Üyeleri:**
+- Ulugbek AVEZOV (95230126)
+- Eset ATAJANOV (95230236)
+- Myratgeldi RAHANOV (95240110)
+- Serdar MAMMEDOV (95240118)
+
+## Proje Hakkında
+Bu projede, sosyal medya (Twitter) ve finansal haber metinleri Büyük Dil Modelleri (FinBERT) kullanılarak duygu analizine tabi tutulacak, ardından bu duygu skorlarının borsa getirileri üzerindeki etkisi istatistiksel modeller (Korelasyon, Regresyon, Hipotez Testi) ile test edilecektir. Sonuçlar bir İş Zekası (BI) Dashboard üzerinden raporlanacaktır.
+
+## Proje Belgeleri
+- Analiz Raporu
+- Müşteri Gereksinim Raporu
+- Fonksiyonel ve Genel Gereksinimler
+- Use Case Diyagramı
+- Kabul Kriterleri ve Test Senaryoları
+
+## Kurulum ve Çalıştırma (Gelecek Aşama)
+Projenin kodlanma aşamasında Python, HuggingFace (FinBERT), Pandas, Statsmodels ve Streamlit/PowerBI kullanılması planlanmaktadır.
